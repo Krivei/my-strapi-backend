@@ -11,9 +11,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "text": {
-      "type": "blocks"
-    },
     "image": {
       "type": "media",
       "multiple": true,
@@ -24,6 +21,9 @@
     },
     "title": {
       "type": "string"
+    },
+    "text": {
+      "type": "richtext"
     }
   }
 }
